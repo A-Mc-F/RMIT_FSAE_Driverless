@@ -1,0 +1,6 @@
+Simply replace the files uploaded to the /catvehicle/urdf folder. 
+To see imu, use 'roslaunch catvehicle catvehicle_neighborhood.launch'
+In a new terminal tab (ctr+shift+T) run gzclient to open gazebo
+In another new termanial run "rosrun teleop_twist_keyboard teleop_twist_keyboard.py /cmd_vel:=/catvehicle/cmd_vel"
+To see IMU ROS topic, run "rostopic list", then "rostopic echo /catvehicle/catvehicle/imu" 
+To control car the telop twist keyboard termianl must be selected
