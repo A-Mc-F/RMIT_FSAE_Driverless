@@ -1,3 +1,11 @@
+Bens edit 1:40 ,18/8/2020
+Do as below, however to run,
+T1: roscore
+T2: roslaunch catvehicle catvehicle_skidpad.launch 
+T3: gzclient
+T4: rosrun teleop_twist_keyboard teleop_twist_keyboard.py /cmd_vel:=/catvehicle/cmd_vel
+//this should launch gazebo with the catvehicle and skidpan already alligned and ready to go
+//T4 is optional, it allows the vehicle to be controled with the keyboard. 
 
 RUNNING - once the below steps are completed
 T1: roscore
