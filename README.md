@@ -17,6 +17,10 @@ The purpose of this project is to create a driverless race car for the FSAE comp
 ## Object Detection
 - Darknet (yolov3)
 - OpenCV
+
+## Vehicle Simulator
+- cat_vehicle sim
+
 # Alumni
 ## 2020
 Summary: That's right, we worked on this while the world was burning around us.
