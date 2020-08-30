@@ -39,7 +39,10 @@ mkdir meshes
 cp -R /home/ubuntu/Desktop/eufs_sim/eufs_description/meshes/. ~/.gazebo/models/skidpad/meshes/
 
 
-//Contents of model.config
+//Contents of model.config (dont include outer quotation marks)
+
+"
+
 
 <?xml version="1.0" ?>
 <model>
@@ -53,6 +56,8 @@ cp -R /home/ubuntu/Desktop/eufs_sim/eufs_description/meshes/. ~/.gazebo/models/s
     <description></description>
 </model>
 
+
+"
 
 //contents of model.sdf
 <?xml version='1.0'?>
