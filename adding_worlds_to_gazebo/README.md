@@ -42,8 +42,6 @@ cp -R /home/ubuntu/Desktop/eufs_sim/eufs_description/meshes/. ~/.gazebo/models/s
 //Contents of model.config (dont include outer quotation marks)
 
 "
-
-
 <?xml version="1.0" ?>
 <model>
     <name>skidpad</name>
@@ -55,7 +53,6 @@ cp -R /home/ubuntu/Desktop/eufs_sim/eufs_description/meshes/. ~/.gazebo/models/s
     </author>
     <description></description>
 </model>
-
 
 "
 
