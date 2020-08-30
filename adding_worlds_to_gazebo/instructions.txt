@@ -20,6 +20,8 @@ STEPS to Complete
 // copy provided skidpad_world.launch file to /home/ubuntu/catkin_ws/src/catvehicle/launch/skidpad_world.launch
 // copy the provided "eufs_sim" folder to your Desktop
 
+//to copy the files/folders, open them on git, click raw, then right-click and save to the sorresponding place.
+
 cd ~/.gazebo/
 cd models
 mkdir skidpad
