@@ -19,7 +19,6 @@ The purpose of this project is to create a driverless race car for the FSAE comp
 - OpenCV
 # Alumni
 ## 2020
-Summary: That's right, we worked on this while the world was burning around us.
 - Angus McFarlane
 - Benjamin Wiley
 - Eamon Glavin-Quane
